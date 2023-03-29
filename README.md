@@ -1,6 +1,6 @@
 # Hi there, I'm Alex 👋
 
-I'm a data analytics student with a passion for building Shiny web apps and exploring the fascinating world of machine learning. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to predictive modeling and deep learning.
+I'm a data analytics student with a passion for building Shiny web apps and exploring the fascinating world of machine learning. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to predictive modeling and web sraping. 
 
 ## 💻 Notable Projects
 
@@ -24,7 +24,7 @@ I'm always happy to chat about data science, machine learning, or anything else 
 - R
 - SQL
 - Machine learning
-- Deep learning
+- Dynamic Web Scraping (Selenium)
 - Shiny web apps
 - Data visualization (Tableau & PowerBI)
 - Data cleaning
