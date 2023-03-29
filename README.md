@@ -26,7 +26,7 @@ I'm always happy to chat about data science, machine learning, or anything else 
 - Machine learning
 - Deep learning
 - Shiny web apps
-- Data visualization
+- Data visualization (Tableau & PowerBI)
 - Data cleaning
 - Statistical analysis
 
