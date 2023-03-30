@@ -6,7 +6,7 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
 
 - [Project 1](https://github.com/AlexanderHolmes0/BlackJackApp): A Shiny web app for exploring reported senate trades and the timing of them. 💎🙌
 - [Project 2](https://github.com/AlexanderHolmes0/BlackJackApp): Fun Shiny app for playing Blackjack. 🃏
-- [Project 3](https://github.com/AlexanderHolmes0/Stroke_Dash): Shiny dashboard to explore Stroke probabilites from a logistic regression model ⚕️
+- [Project 3](https://github.com/AlexanderHolmes0/Stroke_Dash): Shiny dashboard exploring Stroke probabilites from a logistic regression model ⚕️
 - Other projects under the [Repositories](https://github.com/AlexanderHolmes0?tab=repositories) Tab
 
 ## 📚 Education🎓
