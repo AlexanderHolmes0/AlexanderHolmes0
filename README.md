@@ -2,7 +2,7 @@
 
 I'm a data analytics student with a passion for building Shiny web apps and exploring the fascinating world of machine learning. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to predictive modeling and web scraping. 
 
-## 💻 Notable Projects
+## 💻 Notable <sub>ish</sub> Projects
 
 - [Project 1](https://github.com/AlexanderHolmes0/Senate_Tracker): A Shiny web app for exploring reported senate trades and the timing of them. 💎🙌
 - [Project 2](https://github.com/AlexanderHolmes0/BlackJackApp): Fun Shiny app for playing Blackjack. 🃏
@@ -19,13 +19,13 @@ Graduating in May 2023 lez go!🎓
 
 I'm always happy to chat about data science, machine learning, or anything else that interests you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aholmes0/)
 
-## 🚀 Skills
+## 🙌 Skills
 
 - R
 - SQL
-- Machine learning
-- Dynamic Web Scraping (Selenium)
-- Shiny web apps
+- Machine learning (Tidymodels)
+- Dynamic Web Scraping (RSelenium)
+- Shiny + Shinydashboard
 - Data visualization (Tableau & PowerBI)
 - Data cleaning
 - Statistical analysis
