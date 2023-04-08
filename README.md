@@ -30,3 +30,4 @@ I'm always happy to chat about data science, machine learning, or anything else 
 - Data cleaning
 - Statistical analysis
 
+![] (https://images.app.goo.gl/tgMjE3fa5tznQsNQA)
