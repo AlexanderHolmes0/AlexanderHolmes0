@@ -22,13 +22,11 @@ I'm always happy to chat about data science, machine learning, or anything else 
 
 ## 🙌 Skills
 
-- R
-- SQL
+- R, SQL, <sub>JS,CSS</sub>
 - Machine learning (Tidymodels❤️)
 - Dynamic Web Scraping (RSelenium)
 - Shiny + Shinydashboard
-- Data visualization (Tableau & PowerBI)
-- Data cleaning
+- Data visualization + cleanup (Tableau & PowerBI)
 - Statistical analysis
 
 <p align="center">
