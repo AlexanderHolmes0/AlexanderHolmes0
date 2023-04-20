@@ -31,4 +31,7 @@ I'm always happy to chat about data science, machine learning, or anything else 
 - Data cleaning
 - Statistical analysis
 
-![](https://images.app.goo.gl/tgMjE3fa5tznQsNQA)
+<p align="center">
+  <img width="576" height="324" src="https://github.com/AlexanderHolmes0/AlexanderHolmes0/blob/main/racing.gif">
+</p>
+
