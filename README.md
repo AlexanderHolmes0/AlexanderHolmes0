@@ -10,13 +10,13 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
 - [Project 4](https://github.com/AlexanderHolmes0/RaceXGBs): Race XGBoost models with some <sub>simulated</sub> annealing to tune 🎸
 - Other projects under the [Repositories](https://github.com/AlexanderHolmes0?tab=repositories) Tab
 
-## 📚 Education🎓
+## 📚 Education 🎓
 
 I'm currently pursuing a degree in data analytics at the University of TN - Knoxville. In addition to my coursework, I'm always seeking to expand my knowledge through online courses, workshops, and reading.
 
 Graduating in May 2023 lez go!🎓
 
-## 💬 Get in touch
+## 💬 Wanna Talk?
 
 I'm always happy to chat about data science, machine learning, or anything else that interests you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aholmes0/)
 
