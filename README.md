@@ -7,7 +7,7 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
 - [Project 1](https://github.com/AlexanderHolmes0/Senate_Tracker): A Shiny web app for exploring reported senate trades and the timing of them. 💎🙌
 - [Project 2](https://github.com/AlexanderHolmes0/BlackJackApp): Fun Shiny app for playing Blackjack. 🃏
 - [Project 3](https://github.com/AlexanderHolmes0/Stroke_Dash): Shiny dashboard exploring Stroke probabilites from a logistic regression model ⚕️
-- [Project 4](https://github.com/AlexanderHolmes0/RaceXGBs): Race XGBoost models with some simulated annealing tuning
+- [Project 4](https://github.com/AlexanderHolmes0/RaceXGBs): Race XGBoost models with some <sub>simulated</sub> annealing to tune 🎸
 - Other projects under the [Repositories](https://github.com/AlexanderHolmes0?tab=repositories) Tab
 
 ## 📚 Education🎓
@@ -24,7 +24,7 @@ I'm always happy to chat about data science, machine learning, or anything else 
 
 - R
 - SQL
-- Machine learning (Tidymodels)
+- Machine learning (Tidymodels❤️)
 - Dynamic Web Scraping (RSelenium)
 - Shiny + Shinydashboard
 - Data visualization (Tableau & PowerBI)
