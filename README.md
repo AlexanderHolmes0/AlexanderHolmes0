@@ -5,8 +5,6 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
 <p align="center">
   <a href="https://github.com/AlexanderHolmes0">
     <img height = 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHolmes0&hide_border=true&size_weight=0.5&count_weight=0.5&theme=synthwave&layout=compact" />
-  </a>
-  <a href="https://github.com/AlexanderHolmes0">
     <img height = 200 src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderHolmes0&hide_border=true&card_width=338&theme=synthwave" />
   </a>
 </p>
