@@ -32,4 +32,4 @@ I'm always happy to chat about data science, machine learning, or anything else 
 <p align="center">
   <img width="576" height="324" src="https://github.com/AlexanderHolmes0/AlexanderHolmes0/blob/main/racing.gif">
 </p>
-
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderHolmes0&theme=dark&show_icons=true)
