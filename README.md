@@ -2,6 +2,15 @@
 
 I'm a data analytics student with a passion for building Shiny web apps and exploring the fascinating world of machine learning. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to predictive modeling and web scraping. 
 
+<p align="center">
+  <a href="https://github.com/AlexanderHolmes0">
+    <img height = 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHolmes0&hide_border=true&size_weight=0.5&count_weight=0.5&theme=synthwave&layout=compact" />
+  </a>
+  <a href="https://github.com/AlexanderHolmes0">
+    <img height = 200 src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderHolmes0&hide_border=true&card_width=338&theme=synthwave" />
+  </a>
+</p>
+
 ## 💻 Notable <sub>ish</sub> Projects
 
 - [Project 1](https://github.com/AlexanderHolmes0/Senate_Tracker): A Shiny web app for exploring reported senate trades and the timing of them. 💎🙌
@@ -14,7 +23,7 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
 
 I'm currently pursuing a degree in data analytics at the University of TN - Knoxville. In addition to my coursework, I'm always seeking to expand my knowledge through online courses, workshops, and reading.
 
-Graduating in May 2023🎓
+Graduated in May 2023🎓
 
 ## 💬 Wanna Talk?
 
@@ -28,8 +37,3 @@ I'm always happy to chat about data science, machine learning, or anything else 
 - Shiny + Shinydashboard
 - Data visualization + cleanup (Tableau & PowerBI)
 - Statistical analysis
-
-<p align="center">
-  <img width="576" height="324" src="https://github.com/AlexanderHolmes0/AlexanderHolmes0/blob/main/racing.gif">
-</p>
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderHolmes0&theme=dark&show_icons=true)
