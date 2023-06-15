@@ -35,3 +35,9 @@ I'm always happy to chat about data science, machine learning, or anything else 
 - Shiny + Shinydashboard
 - Data visualization + cleanup (Tableau & PowerBI)
 - Statistical analysis
+
+<p align="center">
+  <a href="https://github.com/AlexanderHolmes0">
+    <img src="https://komarev.com/ghpvc/?username=AlexanderHolmes0&color=blue&style=flat)" />
+  </a>
+</p>
