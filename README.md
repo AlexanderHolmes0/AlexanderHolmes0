@@ -40,7 +40,6 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
 - [Project 3](https://github.com/AlexanderHolmes0/Stroke_Dash): Shiny dashboard exploring Stroke probabilites from a logistic regression model 
 - [Project 4](https://github.com/AlexanderHolmes0/RaceXGBs): Race XGBoost models with some <sub>simulated</sub> annealing to tune
 - [Project 5](https://www.kaggle.com/datasets/aholmes23/senator-trades): Webscraped senator stock trades utilizing RSelenium  
-- Other projects under the [Repositories](https://github.com/AlexanderHolmes0?tab=repositories) Tab
 
 ## 📚 Education
 
