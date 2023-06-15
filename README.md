@@ -38,6 +38,6 @@ I'm always happy to chat about data science, machine learning, or anything else 
 
 <p align="center">
   <a href="https://github.com/AlexanderHolmes0">
-    <img src="https://komarev.com/ghpvc/?username=AlexanderHolmes0&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=AlexanderHolmes0&color=blueviolet&style=for-the-badge)" />
   </a>
 </p>
