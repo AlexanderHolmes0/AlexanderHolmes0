@@ -9,12 +9,36 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/AlexanderHolmes0">
+    <img src="https://komarev.com/ghpvc/?username=AlexanderHolmes0&style=for-the-badge&color=blueviolet" />
+  </a>
+  <a href="https://www.linkedin.com/in/aholmes0">
+    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/aholmes23">
+    <img src="https://img.shields.io/badge/Kaggle-blueviolet?logo=kaggle&style=for-the-badge" alt="Kaggle">
+  </a>
+  <a href="https://public.tableau.com/app/profile/alexander.holmes">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&color=blueviolet">
+  </a>
+  <a href="https://www.datacamp.com/profile/aholme27">
+    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F&color=blueviolet">
+  </a>
+  <a href="https://github.com/AlexanderHolmes0">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=blueviolet">
+  </a>
+  <a href="https://github.com/AlexanderHolmes0">
+    <img src="https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white&color=blueviolet">
+  </a>
+</p>
 ## 💻 Notable <sub>ish</sub> Projects
 
 - [Project 1](https://github.com/AlexanderHolmes0/Senate_Tracker): A Shiny web app for exploring reported senate trades and the timing of them. 💎🙌
 - [Project 2](https://github.com/AlexanderHolmes0/BlackJackApp): Fun Shiny app for playing Blackjack. 
 - [Project 3](https://github.com/AlexanderHolmes0/Stroke_Dash): Shiny dashboard exploring Stroke probabilites from a logistic regression model 
-- [Project 4](https://github.com/AlexanderHolmes0/RaceXGBs): Race XGBoost models with some <sub>simulated</sub> annealing to tune 
+- [Project 4](https://github.com/AlexanderHolmes0/RaceXGBs): Race XGBoost models with some <sub>simulated</sub> annealing to tune
+- [Project 5](https://www.kaggle.com/datasets/aholmes23/senator-trades): Webscrape senator stock trades utilizing RSelenium  
 - Other projects under the [Repositories](https://github.com/AlexanderHolmes0?tab=repositories) Tab
 
 ## 📚 Education
@@ -36,8 +60,3 @@ I'm always happy to chat about data science, machine learning, or anything else 
 - Data visualization + cleanup (Tableau & PowerBI)
 - Statistical analysis
 
-<p align="center">
-  <a href="https://github.com/AlexanderHolmes0">
-    <img src="https://komarev.com/ghpvc/?username=AlexanderHolmes0&color=blueviolet&style=for-the-badge)" />
-  </a>
-</p>
