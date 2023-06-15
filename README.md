@@ -25,10 +25,10 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
   <a href="https://www.datacamp.com/profile/aholme27">
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F&color=blueviolet">
   </a>
-  <a href="https://github.com/AlexanderHolmes0">
+  <a href="https://cran.r-project.org/">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=blueviolet">
   </a>
-  <a href="https://github.com/AlexanderHolmes0">
+  <a href="https://www.dell.com/en-us/shop/laptops/13th-gen-intel/spd/xps-15-9530-laptop">
     <img src="https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white&color=blueviolet">
   </a>
 </p>
