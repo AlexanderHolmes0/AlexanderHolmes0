@@ -1,4 +1,4 @@
-# Hi, I'm Alex <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
+# Hi, I'm Alex <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" />
 
 I'm a data analytics student with a passion for building Shiny web apps and exploring the fascinating world of machine learning. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to predictive modeling and web scraping. 
 
