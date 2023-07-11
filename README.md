@@ -1,6 +1,6 @@
 ![](https://github.com/AlexanderHolmes0/React_Resume/blob/main/Banner.gif)
 --
-I'm a data analytics student with a passion for building Shiny web apps and exploring the fascinating world of machine learning. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to predictive modeling and web scraping. 
+I'm a business analytics student with a passion for building Shiny web apps and exploring the fascinating world of machine learning. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to predictive modeling and web scraping. 
 
 <p align="center">
   <a href="https://github.com/AlexanderHolmes0">
@@ -43,9 +43,9 @@ I'm a data analytics student with a passion for building Shiny web apps and expl
 
 ## 📚 Education
 
-I'm currently pursuing a degree in data analytics at the University of TN - Knoxville. In addition to my coursework, I'm always seeking to expand my knowledge through online courses, workshops, and reading.
+I'm currently pursuing a masters degree in business analytics at the University of TN - Knoxville. In addition to my coursework, I'm always seeking to expand my knowledge through online courses, workshops, and reading.
 
-Graduated in May 2023🎓
+Expect to graduate May 2024
 
 ## 💬 Wanna Talk?
 
