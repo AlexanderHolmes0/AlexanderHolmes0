@@ -33,7 +33,7 @@ I'm a business analytics student with a passion for building Shiny web apps and 
   </a>
 </p>
 
-## 💻 Notable <sub>ish</sub> Projects
+## 💻 Notable Projects
 
 - [Project 1](https://github.com/AlexanderHolmes0/Senate_Tracker): A Shiny web app for exploring reported senate trades and the timing of them <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Raising Hands Light Skin Tone" width="25" height="25" />
 - [Project 2](https://github.com/AlexanderHolmes0/BlackJackApp): Fun Shiny app for playing Blackjack
