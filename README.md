@@ -53,7 +53,7 @@ I'm always happy to chat about data science, machine learning, or anything else 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Raising Hands Light Skin Tone" width="25" height="25" /> Skills
 
-- R, SQL, <sub>JS,CSS</sub>
+- R, SQL, Python <sub>JS,CSS</sub>
 - Machine learning (Tidymodels <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />)
 - Dynamic Web Scraping (RSelenium)
 - Shiny + Shinydashboard
