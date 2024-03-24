@@ -28,8 +28,8 @@ I'm a business analytics student with a passion for building Shiny web apps and 
   <a href="https://cran.r-project.org/">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=blueviolet">
   </a>
-  <a href="https://www.dell.com/en-us/shop/laptops/13th-gen-intel/spd/xps-15-9530-laptop">
-    <img src="https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white&color=blueviolet">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=blueviolet">
   </a>
 </p>
 
@@ -53,10 +53,9 @@ I'm always happy to chat about data science, machine learning, or anything else 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Raising Hands Light Skin Tone" width="25" height="25" /> Skills
 
-- R, SQL, Python <sub>JS,CSS</sub>
-- Machine learning (Tidymodels <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />)
-- Dynamic Web Scraping (RSelenium)
-- Shiny + Shinydashboard
-- Data visualization + cleanup (Tableau & PowerBI)
-- Statistical analysis
+- R, SQL, Python, Java, <sub>JS, TS</sub>
+- Machine learning (Tidymodels, SKLearn, MLR3, PyTorch, Tensorflow/Keras, HF Transformers)
+- Shiny + Shinydashboard + Shiny for Python
+- Data visualization/cleanup (Tableau & PowerBI) + Seaborn + Matplotlib
+
 
