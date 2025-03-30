@@ -43,9 +43,7 @@ I'm a business analytics student with a passion for building Shiny web apps and 
 
 ## 📚 Education
 
-I'm currently pursuing a masters degree in business analytics at the University of TN - Knoxville. In addition to my coursework, I'm always seeking to expand my knowledge through online courses, workshops, and reading.
-
-Expect to graduate May 2024
+I hold a master's degree in Business Analytics from the University of TN - Knoxville. In addition to my coursework, I'm always seeking to expand my knowledge through online courses, workshops, and reading.
 
 ## 💬 Wanna Talk?
 
