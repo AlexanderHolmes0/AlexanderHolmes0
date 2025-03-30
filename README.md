@@ -1,6 +1,6 @@
 ![](https://github.com/AlexanderHolmes0/React_Resume/blob/main/Banner.gif)
 --
-I'm a business analytics student with a passion for building Shiny web apps and exploring the fascinating world of machine learning. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to predictive modeling and web scraping. 
+I'm a data analyst/scientist passionate about exploring the world of predictive modeling and natural language. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to AI and web scraping. 
 
 <p align="center">
   <a href="https://github.com/AlexanderHolmes0">
