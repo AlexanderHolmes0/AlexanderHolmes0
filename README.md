@@ -47,7 +47,7 @@ I hold a master's degree in Business Analytics from the University of TN - Knoxv
 
 ## 💬 Wanna Talk?
 
-I'm always happy to chat about data science, machine learning, or anything else that interests you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aholmes0/)
+I'm always happy to chat about data science, machine learning, or anything else that interests you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alexanderholmes0/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Raising Hands Light Skin Tone" width="25" height="25" /> Skills
 
