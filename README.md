@@ -1,12 +1,10 @@
 ![](https://github.com/AlexanderHolmes0/React_Resume/blob/main/Banner.gif)
 --
-I'm a data analyst/scientist passionate about exploring the world of predictive modeling and natural language. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to AI and web scraping. 
+I'm a data scientist passionate about exploring the world of predictive modeling and natural language. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to AI and web scraping. 
 
 <p align="center">
   <a href="https://github.com/AlexanderHolmes0">
-    <img height = 200 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexanderHolmes0&hide_border=true&size_weight=0.5&count_weight=0.5&theme=synthwave&layout=compact" />
-    <img height = 200 src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderHolmes0&hide_border=true&card_width=338&theme=synthwave" />
-  </a>
+    <img height = 200 src = "https://github-stats-extended.vercel.app/api?username=AlexanderHolmes0&hide_border=true&theme=synthwave" />
 </p>
 
 <p align="center">
