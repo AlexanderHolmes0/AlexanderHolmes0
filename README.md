@@ -1,4 +1,4 @@
-![](https://github.com/AlexanderHolmes0/React_Resume/blob/main/Banner.gif)
+Hello 👋
 --
 I'm a data scientist passionate about exploring the world of predictive modeling and natural language. Welcome to my GitHub page! Here you'll find a collection of my projects, from data cleaning and visualization to AI and web scraping. 
 
