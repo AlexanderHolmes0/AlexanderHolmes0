@@ -50,7 +50,8 @@ I'm always happy to chat about data science, machine learning, or anything else 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Raising Hands Light Skin Tone" width="25" height="25" /> Skills
 
 - R, SQL, Python, Java, <sub>JS, TS</sub>
-- Machine learning (Tidymodels, SKLearn, MLR3, PyTorch, Tensorflow/Keras, HF Transformers)
+- Machine learning (Tidymodels, SKLearn, Spark ML, PyTorch, Tensorflow/Keras, HF Transformers)
+- Spark, Delta, Databricks Ecosystem, Azure DevOps
 - Shiny + Shinydashboard + Shiny for Python
 - Data visualization/cleanup (Tableau & PowerBI) + Seaborn + Matplotlib
 
